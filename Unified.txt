@@ -1803,7 +1803,7 @@ Geography,Geographic Area Name,County,State,Population,Median Income,Median Inco
 0500000US35007,"Colfax County, New Mexico",Colfax County,New Mexico,10198,46286,2775,60486,2877,2.753284958,1231
 0500000US35009,"Curry County, New Mexico",Curry County,New Mexico,35528,55427,2123,70128,2367,2.612024319,1945
 0500000US35011,"De Baca County, New Mexico",De Baca County,New Mexico,1264,34702,3106,55224,3050,2.502373418,2473
-0500000US35013,"Do–a Ana County, New Mexico",Do–a Ana County,New Mexico,167422,51232,2454,70278,2354,2.793324653,1051
+0500000US35013,"DoÂ–a Ana County, New Mexico",DoÂ–a Ana County,New Mexico,167422,51232,2454,70278,2354,2.793324653,1051
 0500000US35015,"Eddy County, New Mexico",Eddy County,New Mexico,45190,77458,491,96185,578,2.566342111,2170
 0500000US35017,"Grant County, New Mexico",Grant County,New Mexico,22708,44895,2842,67689,2531,2.831425048,894
 0500000US35019,"Guadalupe County, New Mexico",Guadalupe County,New Mexico,3594,38713,3044,84666,1164,2.314969393,3074
@@ -3148,30 +3148,30 @@ Geography,Geographic Area Name,County,State,Population,Median Income,Median Inco
 0500000US72005,"Aguadilla Municipio, Puerto Rico",Aguadilla Municipio,Puerto Rico,45241,18348,3210,30605,3190,2.527795584,2356
 0500000US72007,"Aguas Buenas Municipio, Puerto Rico",Aguas Buenas Municipio,Puerto Rico,19970,23160,3168,33568,3173,2.417876815,2822
 0500000US72009,"Aibonito Municipio, Puerto Rico",Aibonito Municipio,Puerto Rico,20370,22511,3176,32117,3180,2.548159057,2253
-0500000US72011,"A–asco Municipio, Puerto Rico",A–asco Municipio,Puerto Rico,21331,22673,3173,31060,3185,2.458440767,2665
+0500000US72011,"AÂ–asco Municipio, Puerto Rico",AÂ–asco Municipio,Puerto Rico,21331,22673,3173,31060,3185,2.458440767,2665
 0500000US72013,"Arecibo Municipio, Puerto Rico",Arecibo Municipio,Puerto Rico,72496,21799,3181,31497,3184,2.615868462,1930
 0500000US72015,"Arroyo Municipio, Puerto Rico",Arroyo Municipio,Puerto Rico,12738,18496,3208,30953,3187,2.559742503,2200
 0500000US72017,"Barceloneta Municipio, Puerto Rico",Barceloneta Municipio,Puerto Rico,18578,20282,3195,32453,3177,2.501991603,2475
 0500000US72019,"Barranquitas Municipio, Puerto Rico",Barranquitas Municipio,Puerto Rico,22965,21262,3186,30100,3192,2.55514914,2214
-0500000US72021,"Bayam—n Municipio, Puerto Rico",Bayam—n Municipio,Puerto Rico,154136,29403,3143,41287,3150,2.812295635,967
+0500000US72021,"BayamÂ—n Municipio, Puerto Rico",BayamÂ—n Municipio,Puerto Rico,154136,29403,3143,41287,3150,2.812295635,967
 0500000US72023,"Cabo Rojo Municipio, Puerto Rico",Cabo Rojo Municipio,Puerto Rico,39354,23077,3169,35186,3167,2.642882553,1777
 0500000US72025,"Caguas Municipio, Puerto Rico",Caguas Municipio,Puerto Rico,105099,29279,3144,46456,3138,2.855612327,806
 0500000US72027,"Camuy Municipio, Puerto Rico",Camuy Municipio,Puerto Rico,27226,23263,3166,32776,3176,2.520238008,2386
-0500000US72029,"Can—vanas Municipio, Puerto Rico",Can—vanas Municipio,Puerto Rico,34382,26021,3155,43475,3147,2.662759584,1675
+0500000US72029,"CanÂ—vanas Municipio, Puerto Rico",CanÂ—vanas Municipio,Puerto Rico,34382,26021,3155,43475,3147,2.662759584,1675
 0500000US72031,"Carolina Municipio, Puerto Rico",Carolina Municipio,Puerto Rico,128646,32888,3123,45086,3144,2.893482891,684
-0500000US72033,"Cata–o Municipio, Puerto Rico",Cata–o Municipio,Puerto Rico,18910,22407,3178,34146,3171,2.487625595,2546
+0500000US72033,"CataÂ–o Municipio, Puerto Rico",CataÂ–o Municipio,Puerto Rico,18910,22407,3178,34146,3171,2.487625595,2546
 0500000US72035,"Cayey Municipio, Puerto Rico",Cayey Municipio,Puerto Rico,34600,26704,3152,39051,3154,2.613381503,1939
 0500000US72037,"Ceiba Municipio, Puerto Rico",Ceiba Municipio,Puerto Rico,9444,22945,3171,33516,3174,2.489411266,2536
 0500000US72039,"Ciales Municipio, Puerto Rico",Ciales Municipio,Puerto Rico,13877,19618,3204,25235,3213,2.281256756,3120
 0500000US72041,"Cidra Municipio, Puerto Rico",Cidra Municipio,Puerto Rico,32606,25580,3159,36659,3160,2.607495553,1978
 0500000US72043,"Coamo Municipio, Puerto Rico",Coamo Municipio,Puerto Rico,28385,20569,3189,30213,3191,2.542892373,2278
-0500000US72045,"Comer’o Municipio, Puerto Rico",Comer’o Municipio,Puerto Rico,15413,16153,3221,23634,3217,2.389411536,2911
+0500000US72045,"ComerÂ’o Municipio, Puerto Rico",ComerÂ’o Municipio,Puerto Rico,15413,16153,3221,23634,3217,2.389411536,2911
 0500000US72047,"Corozal Municipio, Puerto Rico",Corozal Municipio,Puerto Rico,27876,21670,3182,30815,3189,2.510761946,2436
 0500000US72049,"Culebra Municipio, Puerto Rico",Culebra Municipio,Puerto Rico,980,25483,3160,35542,3164,2.420408163,2811
 0500000US72051,"Dorado Municipio, Puerto Rico",Dorado Municipio,Puerto Rico,28977,31485,3138,57560,2990,2.80701936,994
 0500000US72053,"Fajardo Municipio, Puerto Rico",Fajardo Municipio,Puerto Rico,26278,24309,3164,35071,3168,2.698645255,1503
 0500000US72054,"Florida Municipio, Puerto Rico",Florida Municipio,Puerto Rico,9509,21560,3183,27759,3201,2.428856872,2778
-0500000US72055,"Gu‡nica Municipio, Puerto Rico",Gu‡nica Municipio,Puerto Rico,11184,14525,3222,20569,3222,2.266630901,3136
+0500000US72055,"GuÂ‡nica Municipio, Puerto Rico",GuÂ‡nica Municipio,Puerto Rico,11184,14525,3222,20569,3222,2.266630901,3136
 0500000US72057,"Guayama Municipio, Puerto Rico",Guayama Municipio,Puerto Rico,29828,19165,3205,29299,3196,2.496211613,2499
 0500000US72059,"Guayanilla Municipio, Puerto Rico",Guayanilla Municipio,Puerto Rico,14407,21312,3184,26359,3209,2.598944957,2022
 0500000US72061,"Guaynabo Municipio, Puerto Rico",Guaynabo Municipio,Puerto Rico,76231,43304,2909,71552,2250,3.167923811,172
@@ -3181,35 +3181,35 @@ Geography,Geographic Area Name,County,State,Population,Median Income,Median Inco
 0500000US72069,"Humacao Municipio, Puerto Rico",Humacao Municipio,Puerto Rico,42199,25940,3157,38593,3156,2.584065973,2089
 0500000US72071,"Isabela Municipio, Puerto Rico",Isabela Municipio,Puerto Rico,35696,19965,3201,28937,3198,2.538351636,2299
 0500000US72073,"Jayuya Municipio, Puerto Rico",Jayuya Municipio,Puerto Rico,11785,18363,3209,23217,3218,2.49520577,2502
-0500000US72075,"Juana D’az Municipio, Puerto Rico",Juana D’az Municipio,Puerto Rico,37374,23035,3170,31695,3182,2.592470702,2052
+0500000US72075,"Juana DÂ’az Municipio, Puerto Rico",Juana DÂ’az Municipio,Puerto Rico,37374,23035,3170,31695,3182,2.592470702,2052
 0500000US72077,"Juncos Municipio, Puerto Rico",Juncos Municipio,Puerto Rico,29889,25931,3158,34874,3169,2.569808291,2149
 0500000US72079,"Lajas Municipio, Puerto Rico",Lajas Municipio,Puerto Rico,19461,17131,3216,24495,3215,2.426750938,2785
 0500000US72081,"Lares Municipio, Puerto Rico",Lares Municipio,Puerto Rico,23217,18844,3207,25725,3211,2.390015937,2909
-0500000US72083,"Las Mar’as Municipio, Puerto Rico",Las Mar’as Municipio,Puerto Rico,7154,16506,3220,22419,3219,2.198630137,3185
+0500000US72083,"Las MarÂ’as Municipio, Puerto Rico",Las MarÂ’as Municipio,Puerto Rico,7154,16506,3220,22419,3219,2.198630137,3185
 0500000US72085,"Las Piedras Municipio, Puerto Rico",Las Piedras Municipio,Puerto Rico,28852,23193,3167,35832,3163,2.74317205,1278
-0500000US72087,"Lo’za Municipio, Puerto Rico",Lo’za Municipio,Puerto Rico,19236,21306,3185,29330,3195,2.382563943,2934
+0500000US72087,"LoÂ’za Municipio, Puerto Rico",LoÂ’za Municipio,Puerto Rico,19236,21306,3185,29330,3195,2.382563943,2934
 0500000US72089,"Luquillo Municipio, Puerto Rico",Luquillo Municipio,Puerto Rico,14691,22585,3174,31745,3181,2.545367912,2269
-0500000US72091,"Manat’ Municipio, Puerto Rico",Manat’ Municipio,Puerto Rico,32340,20385,3192,32154,3179,2.512028448,2431
+0500000US72091,"ManatÂ’ Municipio, Puerto Rico",ManatÂ’ Municipio,Puerto Rico,32340,20385,3192,32154,3179,2.512028448,2431
 0500000US72093,"Maricao Municipio, Puerto Rico",Maricao Municipio,Puerto Rico,4445,20133,3197,24198,3216,2.058492688,3215
 0500000US72095,"Maunabo Municipio, Puerto Rico",Maunabo Municipio,Puerto Rico,8774,21951,3180,26696,3207,2.416001824,2829
-0500000US72097,"MayagŸez Municipio, Puerto Rico",MayagŸez Municipio,Puerto Rico,61090,16788,3219,31049,3186,2.608233753,1972
+0500000US72097,"MayagÂŸez Municipio, Puerto Rico",MayagÂŸez Municipio,Puerto Rico,61090,16788,3219,31049,3186,2.608233753,1972
 0500000US72099,"Moca Municipio, Puerto Rico",Moca Municipio,Puerto Rico,30598,20331,3193,35493,3165,2.44578077,2711
 0500000US72101,"Morovis Municipio, Puerto Rico",Morovis Municipio,Puerto Rico,23309,22282,3179,31572,3183,2.472135227,2607
 0500000US72103,"Naguabo Municipio, Puerto Rico",Naguabo Municipio,Puerto Rico,18695,20486,3190,26126,3210,2.471088526,2613
 0500000US72105,"Naranjito Municipio, Puerto Rico",Naranjito Municipio,Puerto Rico,23868,20616,3188,30859,3188,2.446748785,2704
 0500000US72107,"Orocovis Municipio, Puerto Rico",Orocovis Municipio,Puerto Rico,17246,16869,3218,25617,3212,2.365012177,2983
 0500000US72109,"Patillas Municipio, Puerto Rico",Patillas Municipio,Puerto Rico,13302,20778,3187,27279,3203,2.589009172,2068
-0500000US72111,"Pe–uelas Municipio, Puerto Rico",Pe–uelas Municipio,Puerto Rico,16157,20072,3199,29602,3193,2.497431454,2495
+0500000US72111,"PeÂ–uelas Municipio, Puerto Rico",PeÂ–uelas Municipio,Puerto Rico,16157,20072,3199,29602,3193,2.497431454,2495
 0500000US72113,"Ponce Municipio, Puerto Rico",Ponce Municipio,Puerto Rico,111726,18994,3206,32201,3178,2.662862718,1674
 0500000US72115,"Quebradillas Municipio, Puerto Rico",Quebradillas Municipio,Puerto Rico,19399,20209,3196,26891,3206,2.516366823,2409
-0500000US72117,"Rinc—n Municipio, Puerto Rico",Rinc—n Municipio,Puerto Rico,12897,26771,3151,38140,3157,2.519733271,2389
-0500000US72119,"R’o Grande Municipio, Puerto Rico",R’o Grande Municipio,Puerto Rico,38960,25963,3156,35286,3166,2.609830595,1961
+0500000US72117,"RincÂ—n Municipio, Puerto Rico",RincÂ—n Municipio,Puerto Rico,12897,26771,3151,38140,3157,2.519733271,2389
+0500000US72119,"RÂ’o Grande Municipio, Puerto Rico",RÂ’o Grande Municipio,Puerto Rico,38960,25963,3156,35286,3166,2.609830595,1961
 0500000US72121,"Sabana Grande Municipio, Puerto Rico",Sabana Grande Municipio,Puerto Rico,18632,20464,3191,28827,3199,2.562687849,2188
 0500000US72123,"Salinas Municipio, Puerto Rico",Salinas Municipio,Puerto Rico,20760,20123,3198,27484,3202,2.40977842,2846
-0500000US72125,"San Germ‡n Municipio, Puerto Rico",San Germ‡n Municipio,Puerto Rico,26203,17862,3212,26536,3208,2.446361104,2706
+0500000US72125,"San GermÂ‡n Municipio, Puerto Rico",San GermÂ‡n Municipio,Puerto Rico,26203,17862,3212,26536,3208,2.446361104,2706
 0500000US72127,"San Juan Municipio, Puerto Rico",San Juan Municipio,Puerto Rico,285419,26111,3153,49374,3119,3.015591113,374
 0500000US72129,"San Lorenzo Municipio, Puerto Rico",San Lorenzo Municipio,Puerto Rico,31161,19629,3203,29453,3194,2.48310388,2562
-0500000US72131,"San Sebasti‡n Municipio, Puerto Rico",San Sebasti‡n Municipio,Puerto Rico,32415,17557,3214,27277,3204,2.434675305,2761
+0500000US72131,"San SebastiÂ‡n Municipio, Puerto Rico",San SebastiÂ‡n Municipio,Puerto Rico,32415,17557,3214,27277,3204,2.434675305,2761
 0500000US72133,"Santa Isabel Municipio, Puerto Rico",Santa Isabel Municipio,Puerto Rico,16291,22680,3172,34015,3172,2.613160641,1940
 0500000US72135,"Toa Alta Municipio, Puerto Rico",Toa Alta Municipio,Puerto Rico,54660,32456,3126,44757,3145,2.771807538,1151
 0500000US72137,"Toa Baja Municipio, Puerto Rico",Toa Baja Municipio,Puerto Rico,61886,28719,3147,39626,3153,2.733316097,1323
